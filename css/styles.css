@@ -1,0 +1,102 @@
+h1 img {
+	float: left;
+	margin-right: 5px;
+}
+
+h1 {
+	line-height: 56px;
+}
+
+h1, h2 {
+	font-weight: normal;
+}
+
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.ads {
+	position: absolute;
+	top: 0px;
+	right: 0;
+}
+
+/*LAVALAMP START*/
+
+.lavalamp {
+    position: relative;
+    border: 1px solid #d6d6d6;
+    background: #fff;
+    padding: 15px;
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+	-moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+	box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    border-radius : 10px;
+    -moz-border-radius : 10px;
+    -webkit-border-radius : 10px;
+    background : -webkit-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(rgb(204,204,204)));
+    background : -moz-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(rgb(204,204,204)));
+    height: 18px;
+}
+
+
+
+.dark {
+	top:0px;
+	background : rgb(89,89,89);
+	background : -webkit-gradient(linear, left top, left bottom, from(rgb(89,89,89)), to(rgb(54,54,54)));
+	background : -moz-gradient(linear, left top, left bottom, from(rgb(89,89,89)), to(rgb(54,54,54)));
+	background : gradient(linear, left top, left bottom, from(rgb(89,89,89)), to(rgb(54,54,54)));
+	font-style:inherit;
+	border: 1px solid #272727;
+	
+}
+
+.magenta li a , .cyan li a, .yellow li a , .orange li a, .dark li a{
+	color: #fff;
+	text-shadow: 0 -1px 0 rgba(0,0,0,.40);
+	
+}
+
+
+a {
+    text-decoration: none;
+    color: #262626;
+    line-height: 20px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	z-index: 300;
+	position: absolute;
+	left: 17px;
+}
+
+ul li {
+    list-style: none;
+    float:left;
+
+    text-align: center;
+    }
+
+ul li a {
+    padding: 0 20px;
+    text-align: center;
+    }
+
+.floatr {
+    position: absolute;
+    top: 10px;
+    z-index: 50;
+    width: 70px;
+    height: 30px;
+    border-radius : 8px;
+    -moz-border-radius : 8px;
+    -webkit-border-radius : 8px;
+    background : rgba(0,0,0,.20);
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+}

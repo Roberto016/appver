@@ -1,0 +1,269 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+div.cafe
+{
+	
+	position:absolute;
+	left: 65%;
+	top: 30%;
+	z-index: 4;
+		
+}
+
+div.pantalla
+{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background:-webkit-linear-gradient(white,#03F);
+	background:-moz-linear-gradient(white,#03F);
+	background:-o-linear-gradient(white,#03F);
+	z-index: 1;
+}
+
+div.logo
+{
+	
+	left: 20%;
+	top: 15%;
+	max-width:100%;
+	height:auto;
+	z-index: 4;
+}
+
+
+
+
+
+
+div.copy
+{
+	position:absolute;
+	left: 57.5%;
+	top: 95.5%;
+	max-width:100%;
+	height:auto;
+	z-index: 7;
+}
+
+
+
+div.bien
+{
+	
+	position:absolute;
+	left: 47%;
+	top: 50%;
+	z-index: 4;
+		
+}
+
+
+div.carro
+{
+	
+	position:absolute;
+	left:2%;
+	top: 38%;
+	z-index: 4;
+		
+}
+
+div.regresar
+{
+	
+	position:absolute;
+	left:90%;
+	top: 50%;
+	z-index:1000;
+		
+}
+
+
+
+
+
+
+
+div.vino
+{
+	
+	position:absolute;
+	left: 65%;
+	top: 25%;
+	z-index: 4;
+		
+}
+
+
+
+div.fondo
+{
+	position: absolute;
+	left: 2.5%;
+	top: 5%;
+	width: 95%;
+	height: 90%;
+	-webkit-border-radius:40px;
+	border-radius:40px;
+	-webkit-box-shadow: 5px 5px 20px #000;
+	box-shadow: 5px 5px 20px #000;
+	background-color:#FFF;
+	background:transparent;
+	z-index:3 ;
+}	
+div.menu
+{
+	position: absolute;
+	left: 2.5%;
+	top: 5%;
+	width: 95%;
+	height: 90%;
+	z-index:3 ;
+}
+
+div.f2
+{
+	position: absolute;
+    left: 2%;
+	top: 15%;
+	width:96%;
+	height:78%;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	-webkit-box-shadow: 3px 3px 9px #333;
+	box-shadow:         3px 3px 9px #333;
+	z-index:5;
+
+
+}
+
+
+
+
+
+
+div.r2
+{
+	position: absolute;
+    left: 2%;
+	top: 51%;
+	width:30%;
+	height:40%;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	-webkit-box-shadow: 3px 3px 9px #333;
+	box-shadow:         3px 3px 9px #333;
+	background:-webkit-linear-gradient(black,#666);
+	background:-moz-linear-gradient(black,#666);
+	background:-o-linear-gradient(black,#666);
+	z-index:5;
+
+}
+
+
+div.r2a
+{
+	position: absolute;
+    left: 2%;
+	top: 2%;
+	width:30%;
+	height:65%;
+	background:url(../images/dis.png) no-repeat ;
+	background-position:center;
+	z-index:5;
+
+}
+
+div.r3
+{
+	position: absolute;
+    left: 35%;
+	top: 51%;
+	width:30%;
+	height:40%;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	-webkit-box-shadow: 3px 3px 9px #333;
+	box-shadow:         3px 3px 9px #333;
+	background:-webkit-linear-gradient(black,#666);
+	background:-moz-linear-gradient(black,#666);
+	background:-o-linear-gradient(black,#666);
+	z-index:5;
+
+}
+
+
+div.r3a
+{
+	position: absolute;
+    left: 35%;
+	top: 3%;
+	width:30%;
+	height:65%;
+	background:url(../images/comp2.png) no-repeat ;
+	background-position:center;
+	z-index:5;
+
+}
+
+
+
+
+
+
+
+div.r4
+{
+	position: absolute;
+    left: 68%;
+	top: 51%;
+	width:30%;
+	height:40%;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	-webkit-box-shadow: 3px 3px 9px #333;
+	box-shadow:         3px 3px 9px #333;
+	background:-webkit-linear-gradient(black,#666);
+	background:-moz-linear-gradient(black,#666);
+	background:-o-linear-gradient(black,#666);
+	z-index:5;
+
+}
+div.r4a
+{
+	position: absolute;
+    left: 68%;
+	top: 4%;
+	width:30%;
+	height:65%;
+	background:url(../images/virus2.png) no-repeat ;
+	background-position:center;
+	z-index:5;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	

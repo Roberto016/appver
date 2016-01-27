@@ -1,0 +1,101 @@
+
+
+#pro6 ul {
+	
+	top:9%;
+	left:30%;
+	margin:0 auto; 
+	padding:0;
+	 list-style:none;
+	  display:table;
+	   white-space:nowrap;
+	    list-style:none;
+		 height:35px;  
+		position:absolute;
+		 font-size:13px;
+		 z-index:15;
+		 }
+	
+#pro6 li {
+	display:table-cell;
+	 margin:0;
+	  padding:0;}
+
+#pro6 li a {
+	display:block;
+	 float:left;
+	  height:35px;
+	   line-height:30px;
+	    color:#333; 
+		text-decoration:none;
+		 font-family:arial, verdana, sans-serif;       
+		 text-align:center;
+		  padding:0 0 0 10px;
+		  cursor:pointer;
+		   background:url(../images/pro_six_0a.png) no-repeat;
+		  
+		   }
+
+#pro6 li a {
+	display:block;
+	 float:left;
+	  height:35px;
+	   line-height:30px;
+	    color:#333; 
+		text-decoration:none;
+		 font-family:arial, verdana, sans-serif; font-weight:bold;
+		  text-align:center; padding:0 0 0 10px; cursor:pointer; background:url(../images/pro_six_0a.gif) no-repeat;
+		  }
+#pro6 li a b {
+	float:left;
+	 display:block;
+	  padding:0 25px 5px 15px;
+	   background:url(../images/pro_six_0b.gif) no-repeat right top;}
+	   
+#pro6 li.current a {
+	color:#fff;
+	 background:url(../images/pro_six_2a.gif) no-repeat;}
+	 
+#pro6 li.current a b {
+	background:url(../images/pro_six_2b.gif) no-repeat right top;}
+	
+#pro6 li a:hover {
+	color:#fff; background: url(../images/pro_six_1a.gif) no-repeat;}
+	
+#pro6 li a:hover b {
+	background:url(../images/pro_six_1b.gif) no-repeat right top;}
+	
+#pro6 li.current a:hover {
+	color:#fff; background: url(../images/pro_six_2a.gif) no-repeat; cursor:default;}
+	
+#pro6 li.current a:hover b {
+	background:url(../images/pro_six_2b.gif) no-repeat right top;}
+	
+	
+	
+		<!--SLIDER -->
+	
+	
+	
+		a {
+			color: #09f;
+		}
+		a:hover {
+			text-decoration: none;
+		}
+		#back_to_camera {
+			clear: both;
+			display: block;
+			height: 80px;
+			line-height: 40px;
+			padding: 20px;
+		}
+		.fluid_container {
+			margin: 0 auto;
+			max-width: 1000px;
+			width: 90%;
+		}
+		
+	
+	
+	
